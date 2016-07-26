@@ -1,0 +1,38 @@
+.row.content {height: 550px}
+    
+    /* Set gray background color and 100% height */
+    .sidenav {
+      background-color: silver;
+      height: 100%;
+    }
+        
+    /* On small screens, set height to 'auto' for the grid */
+    @media screen and (max-width: 767px) {
+      .row.content {height: auto;}
+    }
+    body{
+    	background-image: url("../imagenes/fondoinicio.jpg");
+       
+       color: black;
+
+    }
+    textarea{
+      margin: 0px;
+      height: 206px;
+      width: 350px;
+    }
+    }
+    #formu{
+      font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+              font-size: 12px;
+              margin: 45px;
+              width: 320px;
+              text-align: center;   
+              border-collapse: collapse;
+              background: silver;
+              backface-visibility: 50px;
+    }
+    h4{
+    color: orange;
+    }
+    

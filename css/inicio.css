@@ -1,0 +1,23 @@
+        .row.content {
+        height: 550px
+        }
+        .sidenav {
+        background-color: #f1f1f1;
+        height: 100%;
+        }
+        
+        /* On small screens, set height to 'auto' for the grid */
+        @media screen and (max-width: 767px) {
+        .row.content {height: auto;}
+        }
+        body{
+        background: silver;
+               color: black;
+
+        }
+        body{
+        background-image: url("../imagenes/fondoinicio.jpg");
+        }
+        h4{
+        color: orange;
+        }

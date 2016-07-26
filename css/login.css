@@ -1,0 +1,11 @@
+body{
+	
+	background-image: url("../imagenes/fondologin.jpg");
+
+}
+.panel{
+	background: transparent;
+}
+image{
+	 width: 200px; height: 200px;
+}
